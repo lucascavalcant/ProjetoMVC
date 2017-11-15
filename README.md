@@ -1,0 +1,3 @@
+## ProjetoMVC
+
+Model–view–controller (MVC) is a software architectural pattern for implementing user interfaces on computers. It divides a given application into three interconnected parts. This is done to separate internal representations of information from the ways information is presented to, and accepted from, the user.[1][2] The MVC design pattern decouples these major components allowing for efficient code reuse and parallel development.
